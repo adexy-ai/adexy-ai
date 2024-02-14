@@ -11,13 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://adexy-ai.github.io/myCSSwebPage/](https://adexy-ai.github.io/myCSSwebPage/)
 
-- 📝 I regularly write articles on [It is under way.... the old blog link is not accessible.](It is under way.... the old blog link is not accessible.)
-
-- 💬 Ask me about **Python, Java Script, Tableau, Git, Power Shell**
+- 📝 I regularly write articles on [It is under way.... the old blog link is not accessible.]
+- 💬 Ask me about **Python, Java Script, Tableau, Git, Power Shell, SQL, Excel**
 
 - 📫 How to reach me **adex.dbaba@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/anuoluwapo-adeniran-5b0845138](www.linkedin.com/in/anuoluwapo-adeniran-5b0845138)
+- 📄 Know about my experiences (www.linkedin.com/in/anuoluwapo-adeniran-5b0845138)
 
 - ⚡ Fun fact **I can play most racket games decently.**
 
